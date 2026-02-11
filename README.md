@@ -1,0 +1,1 @@
+Source code for EPAM's Code Battle in 2020. It contains my attempt to create bomberman bot behavior based on heat map. The bot whould look at the board, turn it into a heat map and traverse it based on the temperature going from high to low values. Unfortunately, I could not finish the algorithm in time, so I didn't get into the top 10 of the bot algorithms.
